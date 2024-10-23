@@ -42,7 +42,7 @@ button {
     padding: 10px 20px;
     font-size: 1rem;
     color: white;
-    background-color: #ff4545; /* Red button */
+    background-color: red; 
     border: none;
     border-radius: 5px;
     margin-top: 20px;
@@ -63,10 +63,11 @@ button:hover {
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid red; 
+    
 }
 
 .links {
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 .links a {
