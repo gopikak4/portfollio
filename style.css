@@ -53,19 +53,6 @@ button:hover {
     background-color: red;
 }
 
-.image {
-    margin-top: 20px;
-}
-
-.image img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 3px solid red; 
-    
-}
-
 .links {
     margin-top: 5px;
 }
